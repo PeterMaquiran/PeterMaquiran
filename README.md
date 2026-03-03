@@ -1,7 +1,1 @@
-## Peter Maquiran
-
-I'm a Web & Mobile Developer focused on building reliable, observable, and offline-ready applications. I work mainly with Angular, Vue, Nest.JS, Flutter and Node.js, crafting smooth experiences that stay fast — even with poor connectivity.
-
-I care deeply about observability and performance, using OpenTelemetry, Zipkin, Prometheus, and Grafana to trace and monitor systems end-to-end. I also manage Docker-based infrastructure with Nginx, Certbot, and automated CI/CD pipelines for secure, zero-downtime deployments.
-
-I love turning complex systems into simple, dependable apps — where every request, metric, and trace tells a store
+I transform complex web and mobile systems into transparent, reliable, and predictable platforms. With a focus on observability and performance, I turn invisible problems into actionable insights, enabling teams to act quickly and confidently. With over 9 years of experience, I ensure that systems just work, even under pressure or at large scale.
